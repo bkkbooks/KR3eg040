@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3eg040/jc/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 跋霍亂急證也而古無專書間或及之亦語焉未詳故臨證者苦無成法可遵海昌王夢隱先生曩遊玉環嘗著專論以壽世定州楊素園大尹重刻於西江謂其理明辭達指陳病機若黑白之不可混淆顧海內多故板之存否杳不可知壬戌夏此間霍亂盛行求先生書不易得適先生避亂來遊惻然傷之慨將原稿重為校訂語加暢法加詳類證咸備寓意特深讀此書者苟能隅反不但為霍亂之專書也因請於先生亟付剞劂以質恫瘝在抱之君子同治二年夏五月鎮海陳亨謹跋於上海崇本堂
+  hash: sha256:e64ae1fab1c2875a350560acbcb068bf9d4389230eee6a49ffe993fcf7685e96
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3eg040_jc_000-d6.h1s1}
+metadata:
+  title: 隨息居重訂霍亂論
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eg040.xml
+hash: sha256:054a4b7ab867537158d69cbb924476dff4a402324bebfb3285b3b096834fe8fb
